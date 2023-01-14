@@ -104,8 +104,8 @@ hr {
 }
 
 .course {
-    Width 252.42px;
-    Height 269.79px;
+    Width: 252.42px;
+    Height: 269.79px;
 }
 
 .course .course-banner img {
@@ -164,6 +164,5 @@ hr {
     }
     .players, .courses{
         grid-template-columns: repeat(2, 1fr);   
-    }
-    
+    }   
 }
